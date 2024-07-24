@@ -156,7 +156,7 @@
 
   .burger img {
     background: #5373fd;
-     background-image: url(../../img/burger.png); 
+     background-image: url(../img/burger.png); 
     height: 50px;
     width: 50px;
     z-index: 6;
@@ -223,13 +223,13 @@
     }
     #burger:checked + label img {
       background: #5373fd;
-      background-image: url(../../img/burger.png); 
+      background-image: url(../img/burger.png); 
       height: 50px;
       width: 50px;
       z-index: 6;
 
 
-      
+
     }
   }
   

@@ -73,7 +73,7 @@
 // }
 
 .hero {
-  background-image: url(../../img/hero/HeaderBackground.png);
+  background-image: url(../img/hero/HeaderBackground.png);
   background-size: cover;
   // height: 100vh;
   height: 862px;
@@ -136,7 +136,7 @@
       }
 
       .submit-Icon {
-        background-image: url(../../img/hero/search.png);
+        background-image: url(../img/hero/search.png);
         width: 16px;
         height: 16px;
         position: absolute;
@@ -148,7 +148,7 @@
         position: relative;
 
         a::before {
-          content: url("../../img/hero/chevron-down.png");
+          content: url("../img/hero/chevron-down.png");
           display: block;
           position: absolute;
           left: 40px;
@@ -198,7 +198,7 @@
       }
 
       .submit-Icon {
-        background-image: url(./img/img/hero/search.png);
+        background-image: url(../img/img/hero/search.png);
         width: 16px;
         height: 16px;
         position: absolute;
@@ -210,7 +210,7 @@
         position: relative;
 
         a::before {
-          content: url("../../img/hero/chevron-down.png");
+          content: url("../img/hero/chevron-down.png");
           display: block;
           position: absolute;
           left: 40px;
